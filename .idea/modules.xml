@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LogSparkStreaming.iml" filepath="$PROJECT_DIR$/LogSparkStreaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataprocessing/dataprocessing.iml" filepath="$PROJECT_DIR$/dataprocessing/dataprocessing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hdfs/hdfs.iml" filepath="$PROJECT_DIR$/hdfs/hdfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hive/hive.iml" filepath="$PROJECT_DIR$/hive/hive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkstreaming/sparkstreaming.iml" filepath="$PROJECT_DIR$/sparkstreaming/sparkstreaming.iml" />
+    </modules>
+  </component>
+</project>

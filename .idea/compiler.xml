@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common" />
+        <module name="dataprocessing" />
+        <module name="hdfs" />
+        <module name="hive" />
+        <module name="sparkstreaming" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common" target="1.8" />
+      <module name="dataprocessing" target="1.7" />
+      <module name="hdfs" target="1.8" />
+      <module name="hive" target="1.8" />
+      <module name="LogSparkStreaming" target="1.8" />
+      <module name="sparkstreaming" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
